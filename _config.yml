@@ -1,0 +1,42 @@
+title: Willow Pigeon
+description: >-
+  Hi, I'm Willow. This is my digital shoebox—equal parts time capsule, portfolio,
+  and proof I was here. I spend my days wrangling Kubernetes at Wealthsimple and
+  my weekends tinkering with old files.
+url: "https://noisypigeon.github.io"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /posts/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+
+plugins:
+  - jekyll-feed
+
+feed:
+  path: posts_feed
+  posts_limit: 1000
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - raw
+  - README.md
+  - node_modules
+  - vendor
