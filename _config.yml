@@ -13,6 +13,12 @@ kramdown:
 
 permalink: /posts/:slug/
 
+collections:
+  pages:
+    output: true
+  nav:
+    output: false
+
 defaults:
   - scope:
       path: ""

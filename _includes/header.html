@@ -6,9 +6,10 @@
     <div class="site-title m-0"><a class="p-name u-url" href="{{ '/' | relative_url }}">{{ site.title }}</a></div>
     <nav class="site-nav">
       <ul>
-        <li><a class="site-nav-link" href="https://github.com/noisypigeon">GitHub</a></li>
-        <li><a class="site-nav-link" href="https://www.linkedin.com/in/noisypigeon">LinkedIn</a></li>
-        <li><a class="site-nav-link" href="https://unsplash.com/@noisypigeon">Unsplash</a></li>
+        {% assign nav_items = site.nav | sort: "nav_order" %}
+        {% for item in nav_items %}
+          <li><a class="site-nav-link" href="{{ item.link }}">{{ item.title }}</a></li>
+        {% endfor %}
       </ul>
     </nav>
   </div>

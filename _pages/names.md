@@ -4,7 +4,7 @@ title: "Names"
 permalink: /pages/names/
 ---
 
-I have used several names and aliases. 
+I have used several names and aliases. 
 
 This is a complete record for historical purposes:
 
