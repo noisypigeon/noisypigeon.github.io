@@ -1,5 +1,5 @@
 ---
 title: GitHub
 link: https://github.com/noisypigeon
-nav_order: 1
+nav_order: 2
 ---
