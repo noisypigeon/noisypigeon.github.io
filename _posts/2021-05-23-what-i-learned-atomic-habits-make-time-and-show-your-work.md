@@ -1,7 +1,7 @@
 ---
 title: "What I learned: Atomic Habits, Make Time, and Show Your Work"
 date: 2021-05-23 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This blog post has been altered to remove direct mentions of people I was with..."
+description: "Essay about personal reflections during the pandemic lockdowns of 2022-2021."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This blog post has been altered to remove direct mentions of people I was with due to safety concerns.

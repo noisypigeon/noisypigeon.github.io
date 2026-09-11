@@ -1,7 +1,7 @@
 ---
 title: "Hello, Medium! (Introduction)"
 date: 2015-02-15 20:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” I have decided to start writing weekly articles. You may have read my first publication..."
+description: "Medium blog announcement post."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

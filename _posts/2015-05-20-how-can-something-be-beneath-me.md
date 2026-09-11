@@ -1,7 +1,7 @@
 ---
 title: "How can something be beneath me?"
 date: 2015-05-20 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” I was recently involved in a bunch of debates that got me thinking. Teenagers want..."
+description: "Essay about personal reflection and identity-searching."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

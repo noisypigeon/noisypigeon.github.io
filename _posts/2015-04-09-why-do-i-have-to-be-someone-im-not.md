@@ -1,7 +1,7 @@
 ---
 title: "Why do I have to be someone I’m not?"
 date: 2015-04-09 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” So — I don’t know about you, but for most of my life I have been under..."
+description: "Egg posting before the egg knew she was an egg."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

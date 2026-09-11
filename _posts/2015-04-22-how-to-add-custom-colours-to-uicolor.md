@@ -1,7 +1,7 @@
 ---
 title: "How to add custom colours to UIColor()"
 date: 2015-04-22 19:00:00 +0000
-description: "I have noticed that a lot of iOS (and Mac) developers who need to use custom colours in their applications formulate their palette using: let fooColor = UIColor(red: X, green:..."
+description: "Swift UIColor convenience how-to."
 ---
 
 I have noticed that a lot of iOS (and Mac) developers who need to use custom colours in their applications formulate their palette using:

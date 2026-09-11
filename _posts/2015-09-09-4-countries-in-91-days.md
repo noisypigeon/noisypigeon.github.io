@@ -1,7 +1,7 @@
 ---
 title: "4 countries in 91 days"
 date: 2015-09-09 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” In the last few months away, I’ve lived in 2 continents, 3 time zones, 4..."
+description: "Musings about trip to Florida, UK, France, and Germany."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

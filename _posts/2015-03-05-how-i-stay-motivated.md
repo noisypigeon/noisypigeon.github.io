@@ -1,7 +1,7 @@
 ---
 title: "How I stay motivated"
 date: 2015-03-05 20:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” I indubitably believe that motivation is not a global switch we need to flip within..."
+description: "Essay about staying motivated through personal challenges."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

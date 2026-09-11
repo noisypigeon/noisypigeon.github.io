@@ -1,7 +1,7 @@
 ---
 title: "Serendipitous San Francisco"
 date: 2015-03-20 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” I have been to San Francisco twice over the past year. I was awarded a..."
+description: "Musings about San Francisco, California."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

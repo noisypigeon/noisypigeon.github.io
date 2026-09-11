@@ -1,7 +1,7 @@
 ---
 title: "From the Archives: Mechanical Keyboards"
 date: 2024-12-17 20:00:00 +0000
-description: "This is a very informal blog post to share photos of all my mechanical keyboards that I’ve built and used over the years (roughly 2017 to 2023). I no longer..."
+description: "Aggregate blog post with photos of mechanical keyboard builds from over the years."
 ---
 
 This is a very informal blog post to share photos of all my mechanical keyboards that I’ve built and used over the years (roughly 2017 to 2023). I no longer have any of these keyboards but the pictures sure are pretty. I’ll continue to add to this blog post as I find more pictures.

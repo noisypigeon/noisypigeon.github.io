@@ -1,7 +1,7 @@
 ---
 title: "“Debit, please” not “credit fees”"
 date: 2021-06-03 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This blog post explores sensitive topics and has been altered to remove direct mentions of..."
+description: "Essay about navigating financial difficulties."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This blog post explores sensitive topics and has been altered to remove direct mentions of people due to safety concerns.

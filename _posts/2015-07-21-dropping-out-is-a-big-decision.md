@@ -1,7 +1,7 @@
 ---
 title: "Dropping out is a big decision"
 date: 2015-07-21 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” “I seldom end up where I wanted to go, but always end up where I..."
+description: "Essay about dropping out of high school and unforeseen side effects."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

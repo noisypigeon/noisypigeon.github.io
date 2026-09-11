@@ -1,7 +1,7 @@
 ---
 title: "Interview: Murderous Canadian Moose"
 date: 2016-05-15 07:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This is a mirror of a podcast interview with Retro Speculative. • Mirror of the..."
+description: "Mirror of a podcast interview with Retro Speculative."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This is a mirror of a podcast interview with Retro Speculative.

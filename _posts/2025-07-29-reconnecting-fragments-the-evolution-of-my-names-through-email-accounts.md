@@ -1,7 +1,7 @@
 ---
 title: "Reconnecting Fragments: The Evolution of My Names through Email accounts"
 date: 2025-07-29 07:00:00 +0000
-description: "“Related Blog Posts 📚 • ↪️ 2022-08-25: “How to Write a Support Ticket“ • ↪️ 2016-01-01: “I’ve got something to share! (coming out as trans)“” I have been more intentional about..."
+description: "Essay about reconnecting fragmented identities."
 ---
 
 > **Related Blog Posts** 📚

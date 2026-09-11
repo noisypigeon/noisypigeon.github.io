@@ -1,7 +1,7 @@
 ---
 title: "BYOI “Bring Your Own Infrastructure” CI/CD Toolchains"
 date: 2021-07-16 19:00:00 +0000
-description: "“📖 Note: This was originally written to be published on a new engineering blog at cLabs but due to Valora’s spin out, got deprioritized.” I was tasked with designing and implementing..."
+description: "Musings about custom infra CI/CD vs managed CI/CD solutions."
 ---
 
 > 📖 **Note**: This was originally written to be published on a new engineering blog at cLabs but due to Valora’s spin out, got deprioritized.

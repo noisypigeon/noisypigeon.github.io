@@ -1,7 +1,7 @@
 ---
 title: "How I get work as a high school dropout"
 date: 2015-02-27 20:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” Contrary to popular belief, dropouts can get jobs, in fact — they can be placed in very..."
+description: "Essay about career challenges as a high school dropout."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

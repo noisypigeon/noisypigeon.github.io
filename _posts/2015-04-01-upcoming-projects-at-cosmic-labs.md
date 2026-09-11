@@ -1,7 +1,7 @@
 ---
 title: "Upcoming projects at Cosmic Labs"
 date: 2015-04-01 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. It has been altered to obscure direct mentions to other people due to safety concerns.”..."
+description: "Outline of projects at Cosmic Labs."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). It has been altered to obscure direct mentions to other people due to safety concerns.

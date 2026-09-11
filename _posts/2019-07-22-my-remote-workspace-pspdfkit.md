@@ -1,7 +1,7 @@
 ---
 title: "My remote workspace (PSPDFKit)"
 date: 2019-07-22 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This is a mirror of post from the PSPDFKit blog, published July 22nd, 2019. The..."
+description: "Mirror of post from the PSPDFKit blog about my remote desk setup."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This is a mirror of post from the PSPDFKit blog, published July 22nd, 2019. The article is no longer on the website but is on [Wayback Machine](https://web.archive.org/web/20200809172306/https://pspdfkit.com/blog/2019/luna-remote-workspace/).

@@ -1,7 +1,7 @@
 ---
 title: "PSPDFKit for Web 2019.5 Release"
 date: 2019-09-09 07:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This is a mirror of blog post I co-authored for the PSPDFKit for Web 2019.5..."
+description: "Mirror of PSPDFKit for Web 2019.5 Release notes."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This is a mirror of blog post I co-authored for the [PSPDFKit for Web 2019.5](https://pspdfkit.com/blog/2019/pspdfkit-web-2019-5/) release with Philipp Spiess, published September 9th, 2019.

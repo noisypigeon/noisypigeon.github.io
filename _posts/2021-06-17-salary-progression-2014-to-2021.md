@@ -1,7 +1,7 @@
 ---
 title: "Salary progression (2014 to 2021)"
 date: 2021-06-17 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This blog post explores sensitive topics.” Money is a topic we often feel like we..."
+description: "Musings about my salary progression as a high school dropout to established professional."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This blog post explores sensitive topics.

@@ -1,7 +1,7 @@
 ---
 title: "Why I dropped out of high school"
 date: 2015-02-14 20:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” Last October (2014) I dropped out of the eleventh year of school because..."
+description: "Musings about when I dropped out of high school."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

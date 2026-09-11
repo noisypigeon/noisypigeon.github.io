@@ -1,7 +1,7 @@
 ---
 title: "I’ve got something to share! (coming out as trans)"
 date: 2016-01-01 20:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. It explores sensitive subjects and includes a CW for gender dysphoria, mental health, and suicide.”..."
+description: "Essay about coming out as transgender."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). It explores sensitive subjects and includes a CW for gender dysphoria, mental health, and suicide.

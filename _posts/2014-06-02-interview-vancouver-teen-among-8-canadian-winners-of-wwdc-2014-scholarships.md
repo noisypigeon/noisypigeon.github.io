@@ -1,7 +1,7 @@
 ---
 title: "Interview: Vancouver Teen Among 8 Canadian Winners of WWDC 2014 Scholarships"
 date: 2014-06-02 07:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This blog post is a mirror of iPhone in Canada’s coverage of my..."
+description: "iPhone In Canada news coverage of my WWDC scholarship."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

@@ -1,7 +1,7 @@
 ---
 title: "I have an dedicated office!"
 date: 2021-05-29 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This blog post has been altered to remove direct mentions of people I was with..."
+description: "Musings about having a personal office space outside of home."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This blog post has been altered to remove direct mentions of people I was with due to safety concerns.

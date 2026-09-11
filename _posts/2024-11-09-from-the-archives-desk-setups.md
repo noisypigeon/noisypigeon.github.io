@@ -1,7 +1,7 @@
 ---
 title: "From the Archives: Desk Setups"
 date: 2024-11-09 20:00:00 +0000
-description: "2021 2020.2019.December 2019 LG 38GL950G-B monitor, PreSonus E5 speakers, Native Instruments Audio 2 interface, MacBook Pro 13\" w/ TouchBar 2019 base (personal), MacBook Pro 16\" base (work), OWC Thunderbolt 3..."
+description: "Aggregate blog post with photos of desk setups from over the years."
 ---
 
 ## 2021

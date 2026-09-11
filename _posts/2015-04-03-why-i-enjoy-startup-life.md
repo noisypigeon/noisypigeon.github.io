@@ -1,7 +1,7 @@
 ---
 title: "Why I enjoy startup life"
 date: 2015-04-03 19:00:00 +0000
-description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” So, you think I am crazy, eh? That I would leave a stable career behind..."
+description: "Essay about working at and operating a startup."
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).
