@@ -2,7 +2,6 @@
 title: "Formal education is busted"
 date: 2015-04-07 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” Education is in disarray. Our governments have endorsed a system whose structure has not evolved..."
-original_url: https://noisypigeon.com/posts/formal-education-is-busted
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

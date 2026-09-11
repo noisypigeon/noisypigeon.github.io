@@ -2,7 +2,6 @@
 title: "cmd+a, zip, scatter"
 date: 2026-02-07 07:14:40 +0000
 description: "How I built a Capture System out of a Garbage Fire I’ve always been curious about how others capture and organize their thoughts, notes, and files. Over the years I’ve..."
-original_url: https://noisypigeon.com/posts/cmda-zip-scatter
 ---
 
 ## How I built a Capture System out of a Garbage Fire

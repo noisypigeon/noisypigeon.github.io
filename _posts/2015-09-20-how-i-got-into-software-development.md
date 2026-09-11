@@ -2,7 +2,6 @@
 title: "How I got into software development"
 date: 2015-09-20 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” I was introduced to programming by my elementary school’s vice principal. I was in the..."
-original_url: https://noisypigeon.com/posts/how-i-got-into-software-development
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

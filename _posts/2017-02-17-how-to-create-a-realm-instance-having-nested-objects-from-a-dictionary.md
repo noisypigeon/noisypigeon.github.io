@@ -2,7 +2,6 @@
 title: "How to create a Realm instance (having nested objects) from a dictionary?"
 date: 2017-02-17 20:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This post is a mirror of my answer to a Stack Overflow question from February..."
-original_url: https://noisypigeon.com/posts/how-to-create-a-realm-instance-having-nested-objects-from-a-dictionary
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This post is a mirror of my answer to a Stack Overflow question from February 17th, 2017 as Willow PXXX.

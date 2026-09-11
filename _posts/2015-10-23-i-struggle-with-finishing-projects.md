@@ -2,7 +2,6 @@
 title: "I struggle with finishing projects"
 date: 2015-10-23 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” You may know the story of how I was introduced to programming, but I didn’t..."
-original_url: https://noisypigeon.com/posts/i-struggle-with-finishing-projects
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

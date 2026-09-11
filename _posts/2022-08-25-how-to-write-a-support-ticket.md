@@ -2,7 +2,6 @@
 title: "How to Write a Support Ticket"
 date: 2022-08-25 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This was originally written to be a guest blog post on a developer-focused publication. It..."
-original_url: https://noisypigeon.com/posts/how-to-write-a-support-ticket
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This was originally written to be a guest blog post on a developer-focused publication. It remains valuable despite being largely satirical in tone.

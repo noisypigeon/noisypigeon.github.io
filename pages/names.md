@@ -2,7 +2,6 @@
 layout: page
 title: "Names"
 permalink: /pages/names/
-original_url: https://noisypigeon.com/pages/names
 ---
 
 I have used several names and aliases. 

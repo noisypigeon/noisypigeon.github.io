@@ -2,7 +2,6 @@
 title: "New York Nuances"
 date: 2015-03-30 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” I travelled to New York as part of my adventure to find a new city..."
-original_url: https://noisypigeon.com/posts/new-york-nuances
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

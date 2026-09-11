@@ -2,7 +2,6 @@
 title: "Interview: Vancouver Teen Among 8 Canadian Winners of WWDC 2014 Scholarships"
 date: 2014-06-02 07:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This blog post is a mirror of iPhone in Canada’s coverage of my..."
-original_url: https://noisypigeon.com/posts/interview-vancouver-teen-among-8-canadian-winners-of-wwdc-2014-scholarships
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

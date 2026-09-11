@@ -2,7 +2,6 @@
 title: "4 countries in 91 days"
 date: 2015-09-09 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” In the last few months away, I’ve lived in 2 continents, 3 time zones, 4..."
-original_url: https://noisypigeon.com/posts/4-countries-in-91-days
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

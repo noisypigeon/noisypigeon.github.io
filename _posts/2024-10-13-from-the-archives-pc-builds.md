@@ -2,7 +2,6 @@
 title: "From the Archives: PC Builds"
 date: 2024-10-13 19:00:00 +0000
 description: "Work in Progress. 2020 April 27th, 2020 R5 3600, b450i, 16gb 3600, 2tb nvme, 550w, 2060S March 18th, 2020. 3700X, MSI B450 Tomahawk Max, Noctua U12s chromax.black, 2x16GB Hyper X..."
-original_url: https://noisypigeon.com/posts/from-the-archives-pc-builds
 ---
 
 Work in Progress.

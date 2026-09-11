@@ -2,7 +2,6 @@
 title: "BYOI “Bring Your Own Infrastructure” CI/CD Toolchains"
 date: 2021-07-16 19:00:00 +0000
 description: "“📖 Note: This was originally written to be published on a new engineering blog at cLabs but due to Valora’s spin out, got deprioritized.” I was tasked with designing and implementing..."
-original_url: https://noisypigeon.com/posts/byoi-bring-your-own-infrastructure-cicd-toolchains
 ---
 
 > 📖 **Note**: This was originally written to be published on a new engineering blog at cLabs but due to Valora’s spin out, got deprioritized.

@@ -2,7 +2,6 @@
 title: "Hiya, Svbtle! (Re-introduction)"
 date: 2016-03-16 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” Hey, it’s me—Willow. I have decided that I want to get back into writing more..."
-original_url: https://noisypigeon.com/posts/hiya-svbtle-re-introduction
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

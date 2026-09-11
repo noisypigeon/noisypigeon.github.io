@@ -2,7 +2,6 @@
 title: "Reflecting on dropping out (1 year later)"
 date: 2016-02-08 20:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” Over a year ago, I dropped out of high school to jump headfirst into a..."
-original_url: https://noisypigeon.com/posts/reflecting-on-dropping-out-1-year-later
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

@@ -2,7 +2,6 @@
 title: "Never give up"
 date: 2015-03-25 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. It explores sensitive subjects and includes a CW for depression, mental health, and suicide.” Statistics..."
-original_url: https://noisypigeon.com/posts/never-give-up
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). It explores sensitive subjects and includes a CW for depression, mental health, and suicide.

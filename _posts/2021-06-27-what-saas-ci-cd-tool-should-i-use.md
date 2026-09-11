@@ -2,7 +2,6 @@
 title: "What SaaS CI/CD tool should I use?"
 date: 2021-06-27 19:00:00 +0000
 description: "Choosing a continuous integration platform for your team is like pigeons at the park. They’re all interesting but you don’t know which one you’re going to take home. Here are..."
-original_url: https://noisypigeon.com/posts/what-saas-ci-cd-tool-should-i-use
 ---
 
 Choosing a continuous integration platform for your team is like pigeons at the park. They’re all interesting but you don’t know which one you’re going to take home.

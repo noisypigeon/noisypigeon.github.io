@@ -2,7 +2,6 @@
 title: "Vancouver Vibes"
 date: 2015-03-14 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” I moved to Langley in February of 2014, coming from a small town out in..."
-original_url: https://noisypigeon.com/posts/vancouver-vibes
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

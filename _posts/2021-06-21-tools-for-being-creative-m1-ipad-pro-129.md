@@ -2,7 +2,6 @@
 title: "Tools for being creative! (M1 iPad Pro 12.9)"
 date: 2021-06-21 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This blog post has been altered to remove direct mentions of people due to safety..."
-original_url: https://noisypigeon.com/posts/tools-for-being-creative-m1-ipad-pro-129
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This blog post has been altered to remove direct mentions of people due to safety concerns.

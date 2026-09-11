@@ -2,7 +2,6 @@
 title: "WX 5100 + GTX 1070 Ti (Dual GPU Workstation!)"
 date: 2018-08-04 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This post was initially published on PCPartPicker on August 4th, 2018.” This is revision two of..."
-original_url: https://noisypigeon.com/posts/wx-5100-gtx-1070-ti-dual-gpu-workstation
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This post was initially published on [PCPartPicker](https://pcpartpicker.com/b/fjsZxr) on August 4th, 2018.

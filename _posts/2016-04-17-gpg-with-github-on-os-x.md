@@ -2,7 +2,6 @@
 title: "GPG with GitHub on OS X"
 date: 2016-04-17 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated information.” There’s been a lot of chatter about GitHub’s recent announcement in regards to their support for signing tags..."
-original_url: https://noisypigeon.com/posts/gpg-with-github-on-os-x
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated information.

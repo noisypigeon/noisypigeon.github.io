@@ -2,7 +2,6 @@
 title: "Interview: “If we want to have a planet to live on that isn’t shit, we need to turn around and fix this”"
 date: 2015-12-10 08:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. The blog post is a mirror of an interview with On Purpose about Delta, my final project..."
-original_url: https://noisypigeon.com/posts/interview-if-we-want-to-have-a-planet-to-live-on-that-isnt-shit-we-need-to-turn-around-and-fix-this
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). The blog post is a mirror of [an interview with On Purpose](https://on-purpose.ca/post/135802615876/willow-bumby-delta-if-we-want-to-have-a-planet) about Delta, my final project at Lighthouse Labs. 

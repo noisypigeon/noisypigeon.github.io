@@ -2,7 +2,6 @@
 title: "Deploying Expo React Native to Appetize using Bitrise"
 date: 2020-06-19 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This is a mirror of post from the Bitrise blog, published June 19th, 2020. The..."
-original_url: https://noisypigeon.com/posts/deploying-expo-react-native-to-appetize-using-bitrise
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This is a mirror of post from the Bitrise blog, published June 19th, 2020. The original has been removed from their website (likely because Bitrise now offers an official step for Appetize but you can use [Wayback Machine](https://bitrise.io/integrations/steps/appetize-deploy) to see the original.

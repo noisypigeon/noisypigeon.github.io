@@ -2,7 +2,6 @@
 title: "Nuances between distributed and decentralized systems"
 date: 2024-03-07 08:00:00 +0000
 description: "Over the past 4 years, I’ve worked both as an infrastructure and back-end engineer designing and building distributed systems for Web3 ecosystem projects. But working in an industry that loves..."
-original_url: https://noisypigeon.com/posts/nuances-between-distributed-and-decentralized-systems
 ---
 
 Over the past 4 years, I’ve worked both as an infrastructure and back-end engineer designing and building distributed systems for Web3 ecosystem projects. But working in an industry that loves to use the moniker “decentralization” - how do distributed systems differ from decentralized systems, and why are a lot of Web3 ecosystems, protocols, and dApps (decentralized apps) actually mostly rather centralized?

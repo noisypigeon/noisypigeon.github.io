@@ -2,7 +2,6 @@
 title: "PSPDFKit for Web 2019.2 Release"
 date: 2019-04-18 07:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This is a mirror of blog post I authored for the PSPDFKit for Web 2019.2..."
-original_url: https://noisypigeon.com/posts/pspdfkit-for-web-20192-release
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This is a mirror of blog post I authored for the [PSPDFKit for Web 2019.2](https://pspdfkit.com/blog/2019/pspdfkit-web-2019-2/) release, published April 18th, 2019.

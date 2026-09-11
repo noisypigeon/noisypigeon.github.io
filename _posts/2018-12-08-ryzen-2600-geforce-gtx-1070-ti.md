@@ -2,7 +2,6 @@
 title: "Ryzen 2600 / GeForce GTX 1070 Ti"
 date: 2018-12-08 20:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name. This post was initially published on PCPartPicker on December 8th, 2018.” I use this computer for..."
-original_url: https://noisypigeon.com/posts/ryzen-2600-geforce-gtx-1070-ti
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/). This post was initially published on [PCPartPicker](https://pcpartpicker.com/b/8tbXsY) on December 8th, 2018.

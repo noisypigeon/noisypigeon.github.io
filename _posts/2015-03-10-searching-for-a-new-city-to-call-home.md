@@ -2,7 +2,6 @@
 title: "Searching for a new city to call home"
 date: 2015-03-10 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” I established that I really dislike staying in the same place for long, building up..."
-original_url: https://noisypigeon.com/posts/searching-for-a-new-city-to-call-home
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

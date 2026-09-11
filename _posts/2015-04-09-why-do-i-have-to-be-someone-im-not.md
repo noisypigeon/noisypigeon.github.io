@@ -2,7 +2,6 @@
 title: "Why do I have to be someone I’m not?"
 date: 2015-04-09 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” So — I don’t know about you, but for most of my life I have been under..."
-original_url: https://noisypigeon.com/posts/why-do-i-have-to-be-someone-im-not
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

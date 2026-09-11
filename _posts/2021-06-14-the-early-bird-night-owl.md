@@ -2,7 +2,6 @@
 title: "The Early Bird Night Owl"
 date: 2021-06-14 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” During my high school years, the fountain of youth allowed me to wake up at..."
-original_url: https://noisypigeon.com/posts/the-early-bird-night-owl
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

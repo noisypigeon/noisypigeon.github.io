@@ -2,7 +2,6 @@
 title: "Dropping out is a big decision"
 date: 2015-07-21 19:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” “I seldom end up where I wanted to go, but always end up where I..."
-original_url: https://noisypigeon.com/posts/dropping-out-is-a-big-decision
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

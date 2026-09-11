@@ -2,7 +2,6 @@
 title: "Five ways to Convert to Optimism"
 date: 2015-02-23 20:00:00 +0000
 description: "“📖 Note: This post is from the archives. It may reflect outdated views or a previous name.” The majority of the human race is so utterly afraid of “failure”, that it scares..."
-original_url: https://noisypigeon.com/posts/five-ways-to-convert-to-optimism
 ---
 
 > 📖 **Note**: This post is from the archives. It may reflect outdated views or a [previous name](/pages/names/).

@@ -2,7 +2,6 @@
 title: "My Career Trajectory"
 date: 2025-06-22 06:01:00 +0000
 description: "…and an Open Call for Consulting WorkHey folks! I’m pleased to announce that I’m opening myself up for consulting and short-term contracting work. Let’s start with a little bit of..."
-original_url: https://noisypigeon.com/posts/my-career-trajectory
 ---
 
 ## …and an Open Call for Consulting Work
